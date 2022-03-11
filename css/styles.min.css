@@ -52,7 +52,7 @@ nav ul li a:hover{background-color:#eee;color:#333}
 nav ul li.active a{background-color:#7ea1c4;color:#fff}
 main{padding:0 2%;min-height:10rem;display:block;margin:0}
 main .heroImage{display:block;width:96%;margin:0 2%}
-picture.profilePic{display:block;float:right;width:25%;margin:0 2%;padding-left:50px}
+picture.profilePic{display:block;float:right;width:100%;margin:0;padding-left:50px}
 main picture.heroImg img,main picture.profilePic img{width:100%}
 main figure{float:right}
 footer{background-color:#ddd;padding:.5rem 2%;text-align:center}
@@ -65,7 +65,7 @@ nav ul li{width:auto}
 nav ul li:first-child a{border-left:1px solid #777}
 nav ul li:last-child a{border-right:1px solid #777}
 nav ul li a{padding:.5rem 1rem}
-picture.profilePic{display:block;float:right;width:50%;margin:0 2%;padding-left:50px}
+picture.profilePic{display:block;float:right;width:100%;margin:0;padding-left:50px}
 }
 @media only screen and (min-width:64rem){
 footer,header,main,nav{max-width:64rem;margin:auto}

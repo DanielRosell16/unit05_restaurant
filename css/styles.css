@@ -401,8 +401,8 @@ main .heroImage {
 picture.profilePic {
   display: block;
   float: right;
-  width: 25%;
-  margin: 0 2%;
+  width: 100%;
+  margin: 0;
   padding-left: 50px; }
 
 main picture.heroImg img, main picture.profilePic img {
@@ -451,8 +451,8 @@ footer {
   picture.profilePic {
     display: block;
     float: right;
-    width: 50%;
-    margin: 0 2%;
+    width: 100%;
+    margin: 0;
     padding-left: 50px; }
 
   /*----------- FOOTER --------------*/ }
